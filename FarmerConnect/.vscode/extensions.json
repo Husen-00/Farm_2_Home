@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "vmware.vscode-boot-dev-pack",
+    "fwcd.kotlin",
+    "vscjava.vscode-gradle",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-pg"
+  ]
+}

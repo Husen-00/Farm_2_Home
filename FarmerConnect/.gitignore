@@ -1,0 +1,30 @@
+# Android & Gradle
+*.iml
+.gradle/
+.kotlin/
+build/
+.build-outputs/
+local.properties
+.idea/
+.cxx/
+.externalNativeBuild/
+*.apk
+*.aab
+debug.keystore
+debug.keystore.base64
+
+# Java / Maven
+backend/target/
+*.class
+*.jar
+*.war
+
+# Environment & Secrets
+.env
+backend/.env
+frontend/.env
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+node_modules/
